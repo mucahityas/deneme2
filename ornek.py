@@ -1,1 +1,1 @@
-print{"merhaba dünyya"^}
+print{"merhaba dünyy deneme 2a"^}
